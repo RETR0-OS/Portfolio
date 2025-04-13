@@ -10,6 +10,10 @@
     margin: 0 10%;
 }
 
+.menuIcon{
+    display: none;
+}
+
 .title{
     font-size: 30px;
     font-weight: 600;
